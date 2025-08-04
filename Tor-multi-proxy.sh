@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # Usage:
-#   ./tor_socks_pool.sh -l US,DE,JP -p 1010,1011,1012 -i 10
+#   ./Tor-multi-pool.sh -l US,DE,JP -p 1010,1011,1012 -i 10
 #
 #   -l  Comma-separated list of ISO country codes for exit nodes (e.g. US,DE,JP)
 #   -p  Comma-separated list of local SOCKS5 ports (must match number of locations)
