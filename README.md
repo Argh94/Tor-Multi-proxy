@@ -48,7 +48,7 @@ sudo apt-get install tor netcat-openbsd iproute2 tmux
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/paulGUZU/tor-multi-proxy.git
+git clone https://github.com/Argh94/tor-multi-proxy.git
 cd tor-multi-proxy
 ```
 
